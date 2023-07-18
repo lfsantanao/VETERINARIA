@@ -1,0 +1,28 @@
+
+    /* Estilos CSS */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+        margin: 20px;
+        padding: 5px;
+        
+    }
+    nav {
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      text-decoration: none;
+      margin: 10px;
+      color: #08c96f;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+  body{
+    background-image:url(fondovetrinaria.jpg);
+  }
